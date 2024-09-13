@@ -6,7 +6,8 @@ Este repositório contém uma coleção de scripts SQL que exploram diversas fun
 
 **Conteúdo**
 
-Estrutura do Repositório
+
+**Estrutura do Repositório**
 
 Aqui está uma breve descrição de cada arquivo SQL incluído neste repositório:
 1.	restore.sql - Script para restauração de um banco de dados a partir de um backup.
@@ -44,12 +45,6 @@ Aqui está uma breve descrição de cada arquivo SQL incluído neste repositóri
   * Criação de funções e stored procedures para automatizar tarefas.
 * **Estudos:**
   * Scripts para explorar conceitos como cursors, funções, procedimentos armazenados, etc.
-
-**Estrutura do Repositório**
-
-* **pasta_exercicios:** Contém scripts relacionados a exercícios e desafios.
-* **pasta_projetos:** Contém scripts de projetos mais complexos.
-* **pasta_estudos:** Contém scripts para estudos e experimentação.
 
 **Tecnologias Utilizadas**
 
