@@ -35,8 +35,11 @@ Aqui está uma breve descrição de cada arquivo SQL incluído neste repositóri
 23.	offset-loop-lista-bairro.sql - Script para lidar com offsets e loops em listas de bairros.
 24.	funcao_que_retorna_uma_tabela.sql - Função que retorna uma tabela como resultado.
 25.	sp_retornaValoresFaturamentoQuantidade.sql - Stored procedure para retornar valores de faturamento e quantidade.
+26.     AdventureWorks2022.bak - Os dados OLTP são para a maioria das cargas de trabalho típicas de processamento de transações online
+27.     AdventureWorksDW2022.bak - Os dados de Data Warehouse (DW) são para cargas de trabalho de armazenamento de dados.
+28.     AdventureWorksLT2022.bak - Os dados Lightweight (LT) são uma versão leve e analisada da amostra de OLTP.	
 
-	
+
 * **Exercícios e Desafios:**
   * Desafios propostos em cursos como Alura e outros.
   * Exercícios práticos para aprimorar as habilidades em SQL.
@@ -46,23 +49,27 @@ Aqui está uma breve descrição de cada arquivo SQL incluído neste repositóri
 * **Estudos:**
   * Scripts para explorar conceitos como cursors, funções, procedimentos armazenados, etc.
 
+
 **Tecnologias Utilizadas**
 
 * SQL Server
 * SQL Server Management Studio (SSMS)
 
+
 **Como Usar**
 
 Para utilizar os scripts, você precisará de um ambiente com o SQL Server instalado. Recomenda-se utilizar o SSMS para executar os scripts.
+
 
 **Contribuições**
 
 Contribuições são bem-vindas! Se você encontrar algum erro ou tiver sugestões de melhoria, por favor, abra um issue ou faça um pull request.
 
-**Autor**
 
-Michele Lima
-LinkedIn: https://www.linkedin.com/in/michele-lima-b491ba37/
+**Licença**
+Projeto licenciado nos termos da MIT, não há intenção de promover o mesmo para fim comercial, o objetivo é para fins pedagógicos e/ou educacional.
+Os direitos acerca dos exercicios propostos se reservam a Alura, e referente as bases de dados AdventureWorks com extensão .bak, à Microsoft. 
 
 
 **Versão** 1.0
+
