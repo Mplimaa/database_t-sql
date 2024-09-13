@@ -1,1 +1,73 @@
-# database_sql_server
+# database_sql
+
+**Sobre este repositório**
+
+Este repositório contém uma coleção de scripts SQL que exploram diversas funcionalidades do SQL Server, qu vão desde a  análise de dados, criação de funções, procedures, e consultas avançadas. Os scripts foram desenvolvidos durante o aprendizado e prática com a linguagem SQL, cobrindo desde consultas básicas até procedimentos mais complexos.
+
+**Conteúdo**
+
+Estrutura do Repositório
+
+Aqui está uma breve descrição de cada arquivo SQL incluído neste repositório:
+1.	restore.sql - Script para restauração de um banco de dados a partir de um backup.
+2.	Alura-Curso-Performance.sql - Consultas e análises de performance para o curso da Alura.
+3.	backup.sql - Script para backup de dados.
+4.	Desafio-sql-1.sql - Primeiro desafio de SQL com exercícios práticos.
+5.	Desafio-sql-2.sql - Segundo desafio de SQL com exercícios avançados.
+6.	Analise_De_Dados_Curso_Usando_SQLLite.sql - Análise de dados utilizando SQLite.
+7.	Analise_De_Dados_Curso_Usando_SQLLite-parte2.sql - Continuação da análise de dados utilizando SQLite.
+8.	Analise_De_Dados_Curso_Usando_SQLLite-parte3.sql - Terceira parte da análise de dados utilizando SQLite.
+9.	Consultas_Avancadas_SQLServer.sql - Consultas avançadas utilizando SQL Server.
+10.	Consultas_Avancadas_SQLServer-Parte-2.sql - Continuação das consultas avançadas utilizando SQL Server.
+11.	vendedor-de-forma-aleatoria.sql - Script para gerar vendedores de forma aleatória.
+12.	cursor-sql.sql - Exemplo de uso de cursores em SQL.
+13.	cursor2-sql.sql - Segundo exemplo de uso de cursores em SQL.
+14.	procedure-relatorio-teste.sql - Procedure para geração de relatórios de teste.
+15.	Busca_notas_cliente.sql - Consulta para buscar notas de clientes.
+16.	procedure-calcula-idade2.sql - Procedure para calcular a idade.
+17.	create-function.sql - Criação de funções SQL.
+18.	create-function-2.sql - Segunda versão da criação de funções SQL.
+19.	create-function-3.sql - Terceira versão da criação de funções SQL.
+20.	UDF_Faturamento_notas_de_um_bairro.sql - Função definida pelo usuário para calcular faturamento de notas de um bairro.
+21.	limite_min_e_max-se-e-nota-fiscal---.sql - Script para determinar limites mínimos e máximos em notas fiscais.
+22.	limite_min_e_max-se-e-nota-fiscal.sql - Versão revisada para limites mínimos e máximos em notas fiscais.
+23.	offset-loop-lista-bairro.sql - Script para lidar com offsets e loops em listas de bairros.
+24.	funcao_que_retorna_uma_tabela.sql - Função que retorna uma tabela como resultado.
+25.	sp_retornaValoresFaturamentoQuantidade.sql - Stored procedure para retornar valores de faturamento e quantidade.
+
+	
+* **Exercícios e Desafios:**
+  * Desafios propostos em cursos como Alura e outros.
+  * Exercícios práticos para aprimorar as habilidades em SQL.
+* **Projetos:**
+  * Desenvolvimento de consultas e procedimentos para análise de dados.
+  * Criação de funções e stored procedures para automatizar tarefas.
+* **Estudos:**
+  * Scripts para explorar conceitos como cursors, funções, procedimentos armazenados, etc.
+
+**Estrutura do Repositório**
+
+* **pasta_exercicios:** Contém scripts relacionados a exercícios e desafios.
+* **pasta_projetos:** Contém scripts de projetos mais complexos.
+* **pasta_estudos:** Contém scripts para estudos e experimentação.
+
+**Tecnologias Utilizadas**
+
+* SQL Server
+* SQL Server Management Studio (SSMS)
+
+**Como Usar**
+
+Para utilizar os scripts, você precisará de um ambiente com o SQL Server instalado. Recomenda-se utilizar o SSMS para executar os scripts.
+
+**Contribuições**
+
+Contribuições são bem-vindas! Se você encontrar algum erro ou tiver sugestões de melhoria, por favor, abra um issue ou faça um pull request.
+
+**Autor**
+
+Michele Lima
+LinkedIn: https://www.linkedin.com/in/michele-lima-b491ba37/
+
+
+**Versão** 1.0
