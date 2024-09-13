@@ -34,8 +34,7 @@ Aqui está uma breve descrição de cada arquivo SQL incluído neste repositóri
 22.	limite_min_e_max-se-e-nota-fiscal.sql - Versão revisada para limites mínimos e máximos em notas fiscais.
 23.	offset-loop-lista-bairro.sql - Script para lidar com offsets e loops em listas de bairros.
 24.	funcao_que_retorna_uma_tabela.sql - Função que retorna uma tabela como resultado.
-25.	sp_retornaValoresFaturamentoQuantidade.sql - Stored procedure para retornar valores de faturamento e quantidade.
-26. AdventureWorksLT2022.bak - Os dados Lightweight (LT) são uma versão leve e analisada da amostra de OLTP.	
+25.	sp_retornaValoresFaturamentoQuantidade.sql - Stored procedure para retornar valores de faturamento e quantidade.	
 
 
 * **Exercícios e Desafios:**
@@ -59,14 +58,9 @@ Aqui está uma breve descrição de cada arquivo SQL incluído neste repositóri
 Para utilizar os scripts, você precisará de um ambiente com o SQL Server instalado. Recomenda-se utilizar o SSMS para executar os scripts.
 
 
-**Contribuições**
-
-Contribuições são bem-vindas! Se você encontrar algum erro ou tiver sugestões de melhoria, por favor, abra um issue ou faça um pull request.
-
-
 **Licença**
 Projeto licenciado nos termos da MIT, não há intenção de promover o mesmo para fim comercial, o objetivo é para fins pedagógicos e/ou educacional.
-Os direitos acerca dos exercicios propostos se reservam a Alura, e referente as base de dados AdventureWorks com extensão .bak, à Microsoft. 
+Os direitos acerca dos exercicios propostos se reservam a Alura. 
 
 
 **Versão** 1.0
