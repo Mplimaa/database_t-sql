@@ -29,12 +29,11 @@ Aqui está uma breve descrição de cada arquivo SQL incluído neste repositóri
 17.	create-function.sql - Criação de funções SQL.
 18.	create-function-2.sql - Segunda versão da criação de funções SQL.
 19.	create-function-3.sql - Terceira versão da criação de funções SQL.
-20.	UDF_Faturamento_notas_de_um_bairro.sql - Função definida pelo usuário para calcular faturamento de notas de um bairro.
-21.	limite_min_e_max-se-e-nota-fiscal---.sql - Script para determinar limites mínimos e máximos em notas fiscais.
-22.	limite_min_e_max-se-e-nota-fiscal.sql - Versão revisada para limites mínimos e máximos em notas fiscais.
-23.	offset-loop-lista-bairro.sql - Script para lidar com offsets e loops em listas de bairros.
-24.	funcao_que_retorna_uma_tabela.sql - Função que retorna uma tabela como resultado.
-25.	sp_retornaValoresFaturamentoQuantidade.sql - Stored procedure para retornar valores de faturamento e quantidade.	
+20.	limite_min_e_max-se-e-nota-fiscal---.sql - Script para determinar limites mínimos e máximos em notas fiscais.
+21.	limite_min_e_max-se-e-nota-fiscal.sql - Versão revisada para limites mínimos e máximos em notas fiscais.
+22.	offset-loop-lista-bairro.sql - Script para lidar com offsets e loops em listas de bairros.
+23.	funcao_que_retorna_uma_tabela.sql - Função que retorna uma tabela como resultado.
+24.	DB.VENDAS.7z - banco de dados.	
 
 
 * **Exercícios e Desafios:**
