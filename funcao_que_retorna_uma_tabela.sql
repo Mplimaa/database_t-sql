@@ -1,0 +1,11 @@
+      select * from [NOTAS FISCAIS] where cpf = '7771579779'
+
+
+	  --FUNÇÃO QUE RETORNA UMA TABELA
+	  CREATE FUNCTION ListaNotasCliente (@CPF AS VARCHAR (11))
+	  RETURNS TABLE
+	  AS
+		RETURN SELECT * FROM [NOTAS FISCAIS] WHERE CPF = @CPF
+
+SELECT * FROM dbo.ListaNotasCliente('7771579779')
+	  
