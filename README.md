@@ -17,12 +17,11 @@ Para ter acesso ao banco, é necessário ser aluno(a) da Alura.
 
 
 ### Pré-requisitos
-* **SQL Server:** Instância do SQL Server com o banco de dados `db_vendas` criado ou um banco de dados com estrutura similar.
+* **SQL Server:** Instância do SQL Server com o banco de dados, ou um banco de dados com estrutura similar.
 * **SQL Server Management Studio (SSMS):** Ferramenta para executar os scripts e gerenciar o banco de dados.
 
 ### Instalação e Uso
 1. **Configuração do Banco de Dados:**
-    * Restaure o banco de dados `DB_VENDAS.7z` para sua instância do SQL Server (se aplicável).
     * Verifique as conexões e as configurações do SSMS para garantir que estejam apontando para o banco de dados correto.
 2. **Execução dos Scripts:**
     * Abra o SSMS.
