@@ -4,6 +4,7 @@
 
 ### Descrição
 Este repositório contém uma coleção de scripts SQL Server desenvolvidos durante o curso da Alura. Os scripts abordam diversos tópicos, incluindo consultas avançadas, análise de dados, criação de funções e procedimentos armazenados, e muito mais. A maioria dos scripts foi projetada para ser executada no banco de dados `db_vendas`.
+Para ter acesso ao banco, é necessário ser aluno(a) da Alura.
 
 ### Estrutura do Projeto
 * **scripts:**
