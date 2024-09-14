@@ -13,7 +13,7 @@ Este repositório contém uma coleção de scripts SQL Server desenvolvidos dura
     * **Funcoes:** Scripts para criação de funções.
     * **Procedures:** Scripts para criação de procedimentos armazenados.
     * **Outros:** Scripts que não se encaixam nas categorias anteriores.
-* **DB_VENDAS.7z:** Arquivo compactado contendo o banco de dados `db_vendas`. **(Nota:** Recomenda-se remover este arquivo do controle de versão devido ao seu tamanho e possíveis questões de privacidade.)
+
 
 ### Pré-requisitos
 * **SQL Server:** Instância do SQL Server com o banco de dados `db_vendas` criado ou um banco de dados com estrutura similar.
