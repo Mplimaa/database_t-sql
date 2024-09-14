@@ -1,44 +1,47 @@
 # database_t-sql
 
-Descrição
-Este repositório contém uma coleção de scripts SQL desenvolvidos durante meus estudos e prática com o SQL Server. Os scripts abordam diversos temas, desde consultas básicas até procedimentos mais complexos, e foram utilizados em diversos cursos e projetos pessoais.
+## Projeto de Scripts SQL Server - Alura
 
-Conteúdo
+### Descrição
+Este repositório contém uma coleção de scripts SQL Server desenvolvidos durante o curso da Alura. Os scripts abordam diversos tópicos, incluindo consultas avançadas, análise de dados, criação de funções e procedimentos armazenados, e muito mais. A maioria dos scripts foi projetada para ser executada no banco de dados `db_vendas`.
 
-Exercícios e Desafios:
+### Estrutura do Projeto
+* **scripts:**
+    * **Consultas_Avancadas_SQLServer:** Scripts para consultas complexas.
+    * **Analise_De_Dados_Curso_Usando_SQLLite:** Scripts para análise de dados utilizando SQLite (mesmo que não sejam diretamente aplicáveis ao SQL Server, podem servir como referência).
+    * **Desafio-sql:** Scripts desenvolvidos para resolver desafios propostos no curso.
+    * **Funcoes:** Scripts para criação de funções.
+    * **Procedures:** Scripts para criação de procedimentos armazenados.
+    * **Outros:** Scripts que não se encaixam nas categorias anteriores.
+* **DB_VENDAS.7z:** Arquivo compactado contendo o banco de dados `db_vendas`. **(Nota:** Recomenda-se remover este arquivo do controle de versão devido ao seu tamanho e possíveis questões de privacidade.)
 
-Alura: Scripts relacionados aos cursos da Alura, como o curso de performance.
-Outros: Outros exercícios e desafios encontrados em diferentes fontes.
-Análise de Dados: Scripts para análise de dados utilizando o SQL Server e SQLite.
-Vendas: Análises de dados de vendas (ex: SUCOS_VENDAS-12-12.sql)
-Outros: Outras análises de dados exploradas.
+### Pré-requisitos
+* **SQL Server:** Instância do SQL Server com o banco de dados `db_vendas` criado ou um banco de dados com estrutura similar.
+* **SQL Server Management Studio (SSMS):** Ferramenta para executar os scripts e gerenciar o banco de dados.
 
-Consultas Avançadas:
-Consultas complexas utilizando features avançadas do SQL Server (juntas, subconsultas, etc.).
-Procedimentos e Funções: Criação e utilização de procedimentos armazenados, funções e cursores.
-Outros: Scripts para diversas outras finalidades (backups, restauração, etc.).
+### Instalação e Uso
+1. **Configuração do Banco de Dados:**
+    * Restaure o banco de dados `DB_VENDAS.7z` para sua instância do SQL Server (se aplicável).
+    * Verifique as conexões e as configurações do SSMS para garantir que estejam apontando para o banco de dados correto.
+2. **Execução dos Scripts:**
+    * Abra o SSMS.
+    * Abra cada script individualmente.
+    * Execute o script pressionando F5 ou clicando no botão "Executar".
+    * **Observação:** A ordem de execução dos scripts pode ser importante. Verifique as dependências entre os scripts antes de executá-los.
 
-Estrutura do Repositório
-pasta_exercicios: Contém os scripts relacionados a exercícios e desafios.
-pasta_analise_dados: Contém os scripts para análise de dados.
-pasta_consultas_avancadas: Contém os scripts com consultas mais complexas.
-pasta_procedimentos_funcoes: Contém os scripts relacionados a procedimentos e funções.
-outros: Outros scripts que não se encaixam nas categorias acima.
+### Contribuições
+Contribuições são bem-vindas! Para contribuir, siga estes passos:
+1. Fork este repositório.
+2. Crie um novo branch para sua feature.
+3. Faça suas alterações e commit.
+4. Envie um pull request.
 
-Tecnologias Utilizadas
-SQL Server
-SQLite
-SQL Server Management Studio (SSMS)
-
-Como Usar
-Para utilizar os scripts, você precisará de um ambiente com o SQL Server (ou SQLite) instalado. Recomenda-se utilizar o SSMS para executar os scripts do SQL Server.
-
-Contribuições
-Contribuições são bem-vindas! Se você encontrar algum erro ou tiver sugestões de melhoria, por favor, abra um issue.
-
-Licença
+### Licença
 Projeto licenciado nos termos da MIT, não há intenção de promover o mesmo para fim comercial, o objetivo é para fins pedagógicos e/ou educacional.
 Os direitos acerca dos exercicios propostos se reservam a Alura. 
+
+
+Licença
 
 Versão 1.0
 
