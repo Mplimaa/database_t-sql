@@ -27,7 +27,8 @@ Para ter acesso ao banco, é necessário ser aluno(a) da Alura.
     * Abra o SSMS.
     * Abra cada script individualmente.
     * Execute o script pressionando F5 ou clicando no botão "Executar".
-    * **Observação:** A ordem de execução dos scripts pode ser importante. Verifique as dependências entre os scripts antes de executá-los.
+    * **Observação:** A ordem de execução dos scripts pode ser importante. Verifique as dependências entre os scripts antes de executá-los. Scripts para verificar a performance, só é possível executá-los para instância com perfil Master, portanto precisa configurar conforme segue neste link: https://learn.microsoft.com/pt-br/sql/relational-databases/security/authentication-access/create-a-login?view=sql-server-ver16 
+
 
 ### Contribuições
 Contribuições são bem-vindas! Para contribuir, siga estes passos:
